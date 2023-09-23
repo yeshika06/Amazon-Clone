@@ -198,7 +198,7 @@ span {
 }
 
 .box-img {
-    height: 88px;
+    height: 243px;
     background-size: cover;
     width: 99%;
     background-position: center;
@@ -477,7 +477,7 @@ padding-top: 25px;
         height: 193px;
     }
     .foot-panel2 {
-        height: 805px;
+        height: 808px;
     }
 }
 @media (max-width: 475px){
